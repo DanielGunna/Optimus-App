@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/res/merged/debug/layout-ldrtl-v17/md_listitem_singlechoice.xml",
+        "source": "/Users/Daniel/.android/build-cache/3a84c0f23391d251a70055cabe2184bc07621add/output/res/layout-ldrtl-v17/md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/res/merged/debug/layout-ldrtl-v17/md_listitem_multichoice.xml",
+        "source": "/Users/Daniel/.android/build-cache/3a84c0f23391d251a70055cabe2184bc07621add/output/res/layout-ldrtl-v17/md_listitem_multichoice.xml"
+    }
+]

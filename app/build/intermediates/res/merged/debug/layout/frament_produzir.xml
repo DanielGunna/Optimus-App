@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:orientation="vertical"
+        android:padding="20dp"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="Nesta aba você seleciona dois produtos para produzir"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <fr.ganfra.materialspinner.MaterialSpinner
+            android:layout_marginTop="40dp"
+            android:id="@+id/spin_produto"
+            app:ms_hint="Produto A"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:layout_marginTop="20dp"
+            android:id="@+id/spin_qt"
+            android:hint="Quantidade A"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <fr.ganfra.materialspinner.MaterialSpinner
+            android:layout_marginTop="40dp"
+            android:id="@+id/spin_produto_b"
+            app:ms_hint="Produto B"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:layout_marginTop="20dp"
+            android:id="@+id/spin_qt_b"
+            android:hint="Quantidade B"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <fr.ganfra.materialspinner.MaterialSpinner
+            android:layout_marginTop="20dp"
+            android:id="@+id/spin_max"
+            app:ms_hint="Tipo otimização"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/btn_otimizar"
+            android:layout_marginTop="40dp"
+            android:text="Otimizar"
+            android:background="@drawable/bg_buttonh"
+            android:textColor="@android:color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+
+
+    </LinearLayout>
+</ScrollView>

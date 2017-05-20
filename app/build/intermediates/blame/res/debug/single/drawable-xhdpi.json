@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_image_black_48dp.png",
+        "source": "/Users/Daniel/Downloads/Optimus-App/app/src/main/res/drawable-xhdpi/ic_image_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_assessment_black_24dp.png",
+        "source": "/Users/Daniel/Downloads/Optimus-App/app/src/main/res/drawable-xhdpi/ic_assessment_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_timeline_black_24dp.png",
+        "source": "/Users/Daniel/Downloads/Optimus-App/app/src/main/res/drawable-xhdpi/ic_timeline_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_group_work_black_24dp.png",
+        "source": "/Users/Daniel/Downloads/Optimus-App/app/src/main/res/drawable-xhdpi/ic_group_work_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/res/merged/debug/drawable-xhdpi/met_ic_clear.png",
+        "source": "/Users/Daniel/.android/build-cache/8c169280b87318a73a87a49b176f56a90b288180/output/res/drawable-xhdpi/met_ic_clear.png"
+    },
+    {
+        "merged": "/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_collections_black_48dp.png",
+        "source": "/Users/Daniel/Downloads/Optimus-App/app/src/main/res/drawable-xhdpi/ic_collections_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_gavel_black_24dp.png",
+        "source": "/Users/Daniel/Downloads/Optimus-App/app/src/main/res/drawable-xhdpi/ic_gavel_black_24dp.png"
+    }
+]

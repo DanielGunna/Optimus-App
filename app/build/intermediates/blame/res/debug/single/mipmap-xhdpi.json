@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/Daniel/Downloads/Optimus-App/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/Daniel/Downloads/Optimus-App/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

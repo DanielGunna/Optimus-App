@@ -1,0 +1,7 @@
+#Fri May 19 20:01:01 BRT 2017
+base.0=/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_921b8aee7cf959cafed6accef96f4e440a159231
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ba0b3c83c3a4a02aeff639d61a3c81bc88a25981/classes.dex
+base.1=/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ba0b3c83c3a4a02aeff639d61a3c81bc88a25981
+file.0=/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_921b8aee7cf959cafed6accef96f4e440a159231/classes.dex

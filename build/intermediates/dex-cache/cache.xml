@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ba0b3c83c3a4a02aeff639d61a3c81bc88a25981/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b7f07f116b7a45d862c0cdf16059c3514cc4eb9">
+        <dex dex="/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_921b8aee7cf959cafed6accef96f4e440a159231/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate.xml",
+        "source": "/Users/Daniel/.android/build-cache/3a84c0f23391d251a70055cabe2184bc07621add/output/res/layout-v14/md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate_horizontal.xml",
+        "source": "/Users/Daniel/.android/build-cache/3a84c0f23391d251a70055cabe2184bc07621add/output/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "/Users/Daniel/Downloads/Optimus-App/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress.xml",
+        "source": "/Users/Daniel/.android/build-cache/3a84c0f23391d251a70055cabe2184bc07621add/output/res/layout-v14/md_stub_progress.xml"
+    }
+]
